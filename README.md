@@ -19,7 +19,4 @@ machine learning classification and Optuna hyperparameter tuning.
 | Random Forest | 0.85 | 0.85 | 0.91 |
 | RF (Optuna-Tuned) | 0.86 | 0.86 | 0.92 |
 
-## How to Run
-```bash
-pip install -r requirements.txt
-python main.py
+
